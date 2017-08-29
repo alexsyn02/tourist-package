@@ -1,0 +1,27 @@
+body {
+    background: #aeffff;
+    font-size: 18px;
+    font-family: sans-serif;
+}
+
+button {
+    border: none;
+    outline: none;
+    background: lime;
+    color: black;
+    font-weight: bold;
+    padding: 10px 20px;
+    margin: 20px auto;
+}
+
+.greeting {
+    text-align: center;
+}
+.tourist-voucher {
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    border-radius: 5px;
+    border: 2px solid firebrick;
+    margin: 40px 0;
+    padding-left: 10px;
+}
